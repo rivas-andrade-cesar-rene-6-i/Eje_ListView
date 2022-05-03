@@ -18,7 +18,7 @@ class CatalogModel {
         //
         id: 2,
 //
-        name: "Auto Seminuevo",
+        name: "Auto nuevo",
 //
         desc: "Llantas nuevas",
 //
@@ -33,7 +33,7 @@ class CatalogModel {
         //
         id: 3,
 //
-        name: "Volkswagen Beetle",
+        name: "Volkswagen",
 //
         desc: "Modelo clasico",
 //
@@ -48,7 +48,7 @@ class CatalogModel {
 //
         id: 4,
 //
-        name: "Camioneta Chevrolet",
+        name: "Camioneta",
 //
         desc: "Resistente",
 //
@@ -63,7 +63,7 @@ class CatalogModel {
 //
         id: 5,
 //
-        name: "Ford Fiesta 2015",
+        name: "Ford 2015",
 //
         desc: "Un clasico moderno",
 //
