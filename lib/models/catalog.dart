@@ -48,7 +48,7 @@ class CatalogModel {
 //
         id: 4,
 //
-        name: "Camioneta",
+        name: "Ford",
 //
         desc: "Resistente",
 //
